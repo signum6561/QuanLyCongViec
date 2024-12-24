@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuanLyCongViec</string>
+    <string name="todo">Todo</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_tasks">All tasks</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="create">create</string>
+    <string name="task_name">Task name</string>
+    <string name="priority">Priority</string>
+    <string name="due_to">Due to</string>
+    <string name="sample_task_name">Sample task name</string>
+    <string name="sample_date">Sample date</string>
+    <string name="save">save</string>
+    <string name="clear_all">Clear all</string>
+    <string name="completed">Completed</string>
+</resources>
